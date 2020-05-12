@@ -7,8 +7,10 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
     <EditText
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
         android:layout_width="match_parent"
-        android:layout_height="30dp"
+        android:layout_height="wrap_content"
         android:padding="5dp"
         android:hint="Search Berita"
         />
