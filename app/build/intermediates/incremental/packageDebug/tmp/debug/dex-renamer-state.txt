@@ -1,0 +1,4 @@
+#Tue May 12 22:19:37 ICT 2020
+base.0=C\:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
