@@ -6,19 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
-    <EditText
-        android:layout_marginTop="20dp"
-        android:layout_marginBottom="10dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="5dp"
-        android:hint="Search Berita"
-        />
 
-    <com.google.android.material.tabs.TabLayout
-        android:id="@+id/menuLayout"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+
     <androidx.viewpager2.widget.ViewPager2
         android:id="@+id/kotak"
         android:layout_width="match_parent"
@@ -27,6 +16,10 @@
         android:text="halo"
         android:gravity="center"
         />
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/menuLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 
 
