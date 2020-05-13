@@ -11,7 +11,8 @@
         <View
             android:layout_width="match_parent"
             android:layout_height="150dp"
-            android:background="#000" />
+            android:background="#343a40"
+            />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -25,7 +26,7 @@
             android:fontFamily="monospace"
             android:gravity="center"
             android:text="Corona"
-            android:textColor="#fff"
+            android:textColor="#f8f9fa"
             android:textSize="20sp" />
 
         <androidx.cardview.widget.CardView
@@ -33,7 +34,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:padding="10dp"
-            app:cardBackgroundColor="#fff"
+            app:cardBackgroundColor="#f8f9fa"
             app:cardCornerRadius="5dp"
             app:cardElevation="5dp"
             >
@@ -47,7 +48,7 @@
             android:gravity="center_horizontal"
             android:textSize="20sp"
             android:text="Ayo Lawan Corona"
-            android:textColor="@color/colorPrimary"
+            android:textColor="#343a40"
             />
             </LinearLayout>
 

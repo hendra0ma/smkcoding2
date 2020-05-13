@@ -12,6 +12,10 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\report_virus.png"
     },
     {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_microbe.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\drawable-v24\\microbe.png"
+    },
+    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_newspaper.xml.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_newspaper.xml"
     },
