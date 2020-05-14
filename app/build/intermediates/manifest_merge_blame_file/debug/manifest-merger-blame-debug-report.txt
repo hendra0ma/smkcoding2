@@ -10,41 +10,44 @@
 9        android:targetSdkVersion="29" />
 9-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
 10
-11    <application
-11-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:5:5-20:19
-12        android:allowBackup="true"
-12-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:6:9-35
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.2.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\0b96859a3cdf2530aa3d77dcfaeaf2fb\core-1.2.0\AndroidManifest.xml:24:18-86
-14        android:debuggable="true"
-15        android:icon="@mipmap/ic_launcher"
-15-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:7:9-43
-16        android:label="@string/app_name"
-16-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:8:9-41
-17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:9:9-54
-18        android:supportsRtl="true"
-18-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.corona.savelive.MainActivity" />
-21-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:12:9-59
-21-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:12:19-47
-22        <activity android:name="com.corona.savelive.SplashScreen" >
-22-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:13:9-19:20
-22-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:13:19-47
-23            <intent-filter>
-23-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:14:13-18:29
-24                <action android:name="android.intent.action.MAIN" />
-24-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:15:17-69
-24-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:15:25-66
-25
-26                <category android:name="android.intent.category.LAUNCHER" />
-26-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:17:17-77
-26-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:17:27-74
-27            </intent-filter>
-28        </activity>
-29    </application>
-30
-31</manifest>
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:4:1-79
+11-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:4:18-60
+12
+13    <application
+13-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:5:5-20:19
+14        android:allowBackup="true"
+14-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:6:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.2.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\0b96859a3cdf2530aa3d77dcfaeaf2fb\core-1.2.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:7:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:8:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:9:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:10:9-35
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:11:9-40
+22        <activity android:name="com.corona.savelive.MainActivity" />
+22-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:12:9-59
+22-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:12:19-47
+23        <activity android:name="com.corona.savelive.SplashScreen" >
+23-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:13:9-19:20
+23-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:13:19-47
+24            <intent-filter>
+24-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:14:13-18:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:15:17-69
+25-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:15:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:17:17-77
+27-->C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:17:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

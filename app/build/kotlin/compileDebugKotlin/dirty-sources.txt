@@ -1,0 +1,14 @@
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\Attributes.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\CoronaAdapter.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\CovidFragment.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\data\CoronaService.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\data\RetrofitRequest.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\KonsultasiFragment.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\KotakAdapter.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\MainActivity.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\ReportVirusFragment.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\SplashScreen.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\util\LoadingUtils.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\com\corona\savelive\util\ToastUtil.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\KawalCorona.kt
+C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\java\KawalCoronaItem.kt

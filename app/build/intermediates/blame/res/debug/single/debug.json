@@ -1,15 +1,87 @@
 [
     {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_report_virus.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\report_virus.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chat_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_report_virus.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\report_virus.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_laporan.xml.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_laporan.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_newspaper.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chat_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_covid.xml.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_covid.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chat_black_24dp.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chat_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_newspaper.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_konsultasi.xml.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_konsultasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_report_virus.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\report_virus.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_newspaper.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_newspaper.png.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_newspaper.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_report_virus.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\report_virus.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_microbe.png.flat",
@@ -28,8 +100,8 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\report_virus.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_data_corona.xml.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\data_corona.xml"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -40,20 +112,8 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_chat_black_24dp.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_chat_black_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_report_virus.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\report_virus.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
@@ -72,20 +132,12 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_laporan.xml.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_laporan.xml"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_newspaper.png.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_newspaper.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_chat_black_24dp.png.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_chat_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_report_virus.png.flat",
@@ -120,18 +172,6 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_newspaper.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_newspaper.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_chat_black_24dp.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_chat_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_covid.xml.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_covid.xml"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
@@ -140,51 +180,15 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_chat_black_24dp.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_chat_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_newspaper.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_newspaper.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_newspaper.png.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_newspaper.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_konsultasi.xml.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_konsultasi.xml"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_report_virus.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\report_virus.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_chat_black_24dp.xml.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_chat_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_newspaper.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_newspaper.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     }
 ]
