@@ -20,10 +20,6 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\report_virus.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_laporan.xml.flat",
-        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_laporan.xml"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
@@ -112,6 +108,10 @@
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_international.xml.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\fragment_international.xml"
+    },
+    {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
     },
@@ -178,6 +178,10 @@
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\layout_data_international_item.xml.flat",
+        "source": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\src\\main\\res\\layout\\data_international_item.xml"
     },
     {
         "merged": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_newspaper.png.flat",

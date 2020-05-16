@@ -14,7 +14,6 @@ import com.corona.savelive.util.dissmisLoading
 import com.corona.savelive.util.showLoading
 import com.corona.savelive.util.tampilToast
 import kotlinx.android.synthetic.*
-import kotlinx.android.synthetic.main.fragment_covid.*
 import kotlinx.android.synthetic.main.fragment_provinsi.*
 import retrofit2.Call
 import retrofit2.Callback

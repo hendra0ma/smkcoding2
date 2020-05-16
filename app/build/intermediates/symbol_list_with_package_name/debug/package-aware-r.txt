@@ -1552,6 +1552,7 @@ id custom
 id customPanel
 id cut
 id dataBinding
+id dataInter
 id date_picker_actions
 id decor_content_parent
 id default_activity_button
@@ -1715,6 +1716,7 @@ id stretch
 id submenuarrow
 id submit_area
 id swipeRefreshLayout
+id swipeRefreshLayoutInter
 id swipeRefreshLayoutProvinsi
 id tabMode
 id tag_accessibility_actions
@@ -1756,6 +1758,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id txtDirawat
 id txtMeninggal
+id txtNegara
 id txtPositif
 id txtProvinsi
 id txtSembuh
@@ -1837,6 +1840,7 @@ layout activity_main
 layout activity_splash_screen
 layout corona_item
 layout custom_dialog
+layout data_international_item
 layout data_provinsi_item
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -1854,7 +1858,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_covid
-layout fragment_laporan
+layout fragment_international
 layout fragment_provinsi
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions

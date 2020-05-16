@@ -25,6 +25,7 @@ List<CoronaIndonesiaItem>, private val listener: (CoronaIndonesiaItem)-> Unit) :
     class ViewHolder(val context: Context, override val containerView : View) :
         RecyclerView.ViewHolder(containerView), LayoutContainer{
         fun bindItem(item: CoronaIndonesiaItem, listener: (CoronaIndonesiaItem) -> Unit) {
+
             txtDirawat.text = item.dirawat
             txtPositif.text = item.positif
             txtMeninggal.text = item.meninggal

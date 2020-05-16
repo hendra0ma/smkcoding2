@@ -39,7 +39,7 @@
             android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:textColor="@color/bgDark"
-            android:text="Positif : "
+            android:text="Positif "
             />
         <TextView
             android:textSize="20sp"
