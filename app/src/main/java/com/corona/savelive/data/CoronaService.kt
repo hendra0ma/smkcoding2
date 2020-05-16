@@ -1,11 +1,11 @@
 package com.corona.savelive.data
 
-import KawalCoronaItem
+import com.corona.savelive.CoronaIndonesiaItem
 import retrofit2.Call
 import retrofit2.http.GET
 
 interface CoronaService {
 
-    @GET("provinsi")
-    fun getProvinsi():Call<List<KawalCoronaItem>>
+    @GET("indonesia")
+    fun getProvinsi():Call<List<CoronaIndonesiaItem>>
 }

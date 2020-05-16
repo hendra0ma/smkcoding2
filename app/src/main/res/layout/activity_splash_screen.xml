@@ -26,7 +26,7 @@
             >
 
 
-        <de.hdodenhof.circleimageview.CircleImageView
+        <ImageView
             android:id="@+id/mikroba"
             android:layout_width="160dp"
             android:layout_height="160dp"

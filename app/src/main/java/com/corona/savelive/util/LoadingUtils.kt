@@ -12,7 +12,7 @@ fun showLoading(context: Context,swipeRefreshLayout: SwipeRefreshLayout){
     swipeRefreshLayout.isRefreshing = true
 
 }
-fun dissmissLoading(swipeRefreshLayout: SwipeRefreshLayout){
+fun dissmisLoading(swipeRefreshLayout: SwipeRefreshLayout){
     swipeRefreshLayout.isRefreshing = true
     swipeRefreshLayout.isEnabled = true
 }

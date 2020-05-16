@@ -192,10 +192,6 @@ attr chipStrokeColor
 attr chipStrokeWidth
 attr chipStyle
 attr chipSurfaceColor
-attr civ_border_color
-attr civ_border_overlay
-attr civ_border_width
-attr civ_circle_background_color
 attr closeIcon
 attr closeIconEnabled
 attr closeIconEndPadding
@@ -793,9 +789,11 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color bgDanger
 color bgDark
 color bgLight
 color bgPrimary
+color bgSeconday
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -1455,12 +1453,8 @@ drawable tooltip_frame_light
 id ALT
 id BOTTOM_END
 id BOTTOM_START
-id BeritaUpdate
 id CTRL
 id FUNCTION
-id KasusMeninggal
-id KasusPositif
-id KasusSembuh
 id META
 id SHIFT
 id SYM
@@ -1554,6 +1548,7 @@ id coordinator
 id custom
 id customPanel
 id cut
+id dataBinding
 id date_picker_actions
 id decor_content_parent
 id default_activity_button
@@ -1606,6 +1601,7 @@ id largeLabel
 id left
 id line1
 id line3
+id listCoronaData
 id listMode
 id list_item
 id masked
@@ -1651,6 +1647,8 @@ id notification_main_column
 id notification_main_column_container
 id off
 id on
+id onAttachStateChangeListener
+id onDateChanged
 id outline
 id packed
 id parallax
@@ -1713,6 +1711,7 @@ id start
 id stretch
 id submenuarrow
 id submit_area
+id swipeRefreshLayout
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
@@ -1730,6 +1729,7 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textWatcher
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1750,7 +1750,10 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
-id txtProvinsi
+id txtDirawat
+id txtMeninggal
+id txtPositif
+id txtSembuh
 id unchecked
 id uniform
 id unlabeled
@@ -1826,8 +1829,8 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
 layout activity_splash_screen
+layout corona_item
 layout custom_dialog
-layout data_corona
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -2701,7 +2704,6 @@ styleable ButtonBarLayout allowStacking
 styleable CardView android_minWidth android_minHeight cardBackgroundColor cardCornerRadius cardElevation cardMaxElevation cardPreventCornerOverlap cardUseCompatPadding contentPadding contentPaddingBottom contentPaddingLeft contentPaddingRight contentPaddingTop
 styleable Chip android_textAppearance android_textColor android_ellipsize android_maxWidth android_text android_checkable checkedIcon checkedIconEnabled checkedIconTint checkedIconVisible chipBackgroundColor chipCornerRadius chipEndPadding chipIcon chipIconEnabled chipIconSize chipIconTint chipIconVisible chipMinHeight chipMinTouchTargetSize chipStartPadding chipStrokeColor chipStrokeWidth chipSurfaceColor closeIcon closeIconEnabled closeIconEndPadding closeIconSize closeIconStartPadding closeIconTint closeIconVisible ensureMinTouchTargetSize hideMotionSpec iconEndPadding iconStartPadding rippleColor shapeAppearance shapeAppearanceOverlay showMotionSpec textEndPadding textStartPadding
 styleable ChipGroup checkedChip chipSpacing chipSpacingHorizontal chipSpacingVertical selectionRequired singleLine singleSelection
-styleable CircleImageView civ_border_color civ_border_overlay civ_border_width civ_circle_background_color
 styleable CollapsingToolbarLayout collapsedTitleGravity collapsedTitleTextAppearance contentScrim expandedTitleGravity expandedTitleMargin expandedTitleMarginBottom expandedTitleMarginEnd expandedTitleMarginStart expandedTitleMarginTop expandedTitleTextAppearance maxLines scrimAnimationDuration scrimVisibleHeightTrigger statusBarScrim title titleEnabled toolbarId
 styleable CollapsingToolbarLayout_Layout layout_collapseMode layout_collapseParallaxMultiplier
 styleable ColorStateListItem android_color android_alpha alpha
