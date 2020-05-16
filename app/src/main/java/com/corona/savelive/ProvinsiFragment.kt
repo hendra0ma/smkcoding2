@@ -26,21 +26,21 @@ class ProvinsiFragment : Fragment() {
     }
 
     private fun callApiProvinsi(){
-        showLoading(context!!,swipeRefreshLayout)
+        showLoading(context!!,swipeRefreshLayoutProvinsi)
 
         val httpClient = httpClien()
         val apiRequest = apiRequestProvinsi<CoronaProvinsiService>(httpClient)
         val call = apiRequest.getProvinsi()
         call.enqueue(object :Callback<List<DataprovinsiItem>>{
             override fun onFailure(call: Call<List<DataprovinsiItem>>, t: Throwable) {
-                dissmisLoading(swipeRefreshLayout)
+                dissmisLoading(swipeRefreshLayoutProvinsi)
             }
 
             override fun onResponse(
                 call: Call<List<DataprovinsiItem>>,
                 response: Response<List<DataprovinsiItem>>
             ) {
-                dissmisLoading(swipeRefreshLayout)
+                dissmisLoading(swipeRefreshLayoutProvinsi)
                 when{
                     response.isSuccessful->when{
                         response.body()?.size != 0-> tampilDataProvinsi(response.body()!!)

@@ -1715,6 +1715,7 @@ id stretch
 id submenuarrow
 id submit_area
 id swipeRefreshLayout
+id swipeRefreshLayoutProvinsi
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans
