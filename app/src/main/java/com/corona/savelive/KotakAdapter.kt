@@ -9,7 +9,7 @@ class KotakAdapter (fragmentActivity: FragmentActivity):FragmentStateAdapter(fra
     override fun createFragment(posisi: Int): Fragment {
        return when(posisi){
              0 -> CovidFragment()
-           1-> KonsultasiFragment()
+           1-> ProvinsiFragment()
            2-> ReportVirusFragment()
            else->CovidFragment()
         }

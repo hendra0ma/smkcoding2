@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/txtProvinsi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Jakarta"
+
+            />
+        <TextView
+            android:id="@+id/Positif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="998"
+            />
+        <TextView
+            android:id="@+id/Sembuh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="998"
+            />
+        <TextView
+            android:id="@+id/Meninggal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="998"
+            />
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

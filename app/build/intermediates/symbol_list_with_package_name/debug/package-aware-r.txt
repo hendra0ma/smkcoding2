@@ -1456,8 +1456,11 @@ id BOTTOM_START
 id CTRL
 id FUNCTION
 id META
+id Meninggal
+id Positif
 id SHIFT
 id SYM
+id Sembuh
 id TOP_END
 id TOP_START
 id accessibility_action_clickable_span
@@ -1753,11 +1756,13 @@ id transition_transform
 id txtDirawat
 id txtMeninggal
 id txtPositif
+id txtProvinsi
 id txtSembuh
 id unchecked
 id uniform
 id unlabeled
 id up
+id updateCorona
 id useLogo
 id view1
 id view_offset_helper
@@ -1831,6 +1836,7 @@ layout activity_main
 layout activity_splash_screen
 layout corona_item
 layout custom_dialog
+layout data_provinsi_item
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1847,8 +1853,8 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_covid
-layout fragment_konsultasi
 layout fragment_laporan
+layout fragment_provinsi
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
