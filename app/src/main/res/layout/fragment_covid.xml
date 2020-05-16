@@ -74,23 +74,22 @@
 
 
 
-<LinearLayout
-    android:layout_below="@+id/view1"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    >
+    <LinearLayout
+        android:layout_below="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="10dp"
             android:padding="10dp"
-            app:cardBackgroundColor="@color/bgLight"
+            app:cardBackgroundColor="@color/bgSeconday"
             app:cardCornerRadius="5dp"
             app:cardElevation="5dp">
 
 
             <androidx.recyclerview.widget.RecyclerView
-
                 android:id="@+id/listCoronaData"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

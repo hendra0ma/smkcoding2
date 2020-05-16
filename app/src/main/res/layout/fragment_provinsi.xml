@@ -50,15 +50,28 @@
     </LinearLayout>
     </androidx.cardview.widget.CardView>
     </LinearLayout>
-
+        <ScrollView
+            android:layout_below="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                app:cardBackgroundColor="@color/bgLight"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/updateCorona"
             android:background="@color/bgLight"
-            android:layout_marginTop="20dp"
-            android:padding="10dp"
-            android:layout_below="@+id/view1"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:scrollbars="horizontal" />
+            </androidx.cardview.widget.CardView>
+        </ScrollView>
     </RelativeLayout>
 
 </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

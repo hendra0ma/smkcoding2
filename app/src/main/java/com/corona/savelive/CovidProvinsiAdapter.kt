@@ -26,10 +26,11 @@ class CovidProvinsiAdapter(private val context :Context,private val items : List
 
     class ViewHolder(val context : Context,override val containerView: View):RecyclerView.ViewHolder(containerView),LayoutContainer{
         fun binItem(item:DataprovinsiItem,listener: (DataprovinsiItem) -> Unit){
-            txtProvinsi.text = item.attributes.provinsi
-            Positif.text = item.attributes.kasusPosi.toString()
-            Sembuh.text = item.attributes.kasusSemb.toString()
-            Meninggal.text = item.attributes.kasusMeni.toString()
+            val atribut = item.attributes
+            txtProvinsi.text = atribut.provinsi
+            Positif.text = atribut.kasusPosi.toString()
+            Sembuh.text = atribut.kasusSemb.toString()
+            Meninggal.text = atribut.kasusMeni.toString()
                 containerView.setOnClickListener { listener(item) }
 
 
