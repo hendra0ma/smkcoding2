@@ -40,11 +40,12 @@
         android:layout_height="wrap_content"
         android:padding="10dp">
         <TextView
+            android:fontFamily="@font/gilroy_bold"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:textSize="20sp"
-            android:text="Update data Provinsi"
+            android:text="Data Provinsi"
             android:textColor="#343a40"
             />
     </LinearLayout>

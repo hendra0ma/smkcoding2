@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Save Live From Corona</string>
+    <string name="cegahCorona">Bagaimana cara mencegah virus corona ?</string>
+    <string name="tocegah">bagaimana mencegahnya ?</string>
+    <string name="potensi">Nama Orang yang Berpotensi</string>
+    <string name="caraDistance">Bagaimana kita bisa bersosialilasi disaat social distance</string>
+    <string name="sociaIDistance">bagaimana kita beraktifitas saat social dstancing ?</string>
 </resources>

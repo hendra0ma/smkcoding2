@@ -10,11 +10,11 @@
 
     <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="match_parent">
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:background="#E8E8E8">
         <View
             android:id="@+id/view1"
@@ -24,7 +24,7 @@
             />
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="10dp"
         android:layout_marginTop="20dp"
@@ -48,8 +48,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:fontFamily="@font/gilroy_bold"
             android:textSize="25sp"
-            android:text="Data Lengkap Corona"
+            android:text="Data Indonesia"
             android:textColor="#343a40"
             />
             </LinearLayout>
@@ -91,31 +93,45 @@
 </LinearLayout>
 
 
-
-
-
-
         <LinearLayout
-            android:padding="20sp"
+            android:layout_below="@+id/Linear1"
+            android:id="@+id/Linear2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:layout_below="@+id/Linear1"
-            >
+            android:padding="5dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:background="@color/bgLight"
+            android:orientation="horizontal">
 
-            <Button
-                android:id="@+id/cegahVIrus"
-                android:layout_width="wrap_content"
-                android:layout_gravity="center"
+            <TextView
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:text="@string/tocegah"
+                android:textSize="15sp"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/gilroy_bold"
+                android:textColor="@color/bgPrimary"/>
+
+
+            <ImageButton
+                android:id="@+id/btnCegah"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="15sp"
+                android:layout_margin="5dp"
+                android:src="@drawable/ic_keyboard_arrow_right_black_24dp"
+                android:fontFamily="@font/gilroy_bold"
                 android:background="@color/bgPrimary"
-                android:text="BagaiMana cara mencegah virus corona ?"
-                android:textColor="@color/bgDark"
-                android:textStyle="bold"
-                android:fontFamily="casual"
-                />
+                android:textColor="@color/bgLight"/>
+
 
         </LinearLayout>
+
     </RelativeLayout>
 
 

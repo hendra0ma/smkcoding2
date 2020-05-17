@@ -12,14 +12,12 @@ import kotlinx.android.synthetic.main.fragment_covid.*
 class MainActivity : AppCompatActivity() {
 
 
-    val icon = arrayOf(R.drawable.ic_newspaper,R.drawable.ic_chat_black_24dp,R.drawable.report_virus)
+    val icon = arrayOf(R.drawable.ic_indonesia,R.drawable.ic_gaming,R.drawable.ic_world)
 
     override fun onCreate(savedInstanceState: Bundle?) {
-
-
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-//        cegahVIrus.setOnClickListener { startActivity(Intent(this@MainActivity,SplashScreen::class.java)) }
+
         kotak.isUserInputEnabled =false
         val adapter = KotakAdapter(this)
         kotak.setAdapter(adapter)
@@ -31,6 +29,8 @@ class MainActivity : AppCompatActivity() {
 
 
     }
+
+
 
 
 }

@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\SMKI\\AndroidStudioProjects\\SaveLiveFromCorona\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\07d91a6f02149585995d851c56f12844\\appcompat-1.1.0\\res\\values-v17\\values-v17.xml",
+                    "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\eae9d07c0c4d830a2faa88b6f1f64c53\\appcompat-1.1.0\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CegahCoronaAct">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E8E8E8">
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@color/bgDanger"
+        />
+    <LinearLayout
+        android:id="@+id/line3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:layout_marginTop="20dp"
+        >
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="10dp"
+        app:cardBackgroundColor="#f8f9fa"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="5dp"
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <TextView
+            android:fontFamily="@font/gilroy_bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:textSize="25sp"
+            android:text="@string/cegahCorona"
+            android:textColor="#343a40"
+            />
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_below="@+id/line3"
+            android:id="@+id/line2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_marginTop="20sp"
+            >
+    <androidx.recyclerview.widget.RecyclerView
+
+        android:id="@+id/cegahCoronaItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_below="@+id/line2"
+            android:id="@+id/Linear2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:gravity="center"
+            android:background="@color/bgLight"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/caraDistance"
+                android:textSize="15sp"
+                android:layout_weight="1"
+                android:layout_margin="5dp"
+                android:fontFamily="@font/gilroy_bold"
+                android:textColor="@color/bgPrimary"/>
+
+
+            <ImageButton
+                android:id="@+id/btnDistance"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginBottom="20dp"
+                android:textSize="15sp"
+                android:layout_margin="5dp"
+                android:src="@drawable/ic_keyboard_arrow_right_black_24dp"
+                android:fontFamily="@font/gilroy_bold"
+                android:background="@color/bgPrimary"
+                android:textColor="@color/bgLight"/>
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>
+

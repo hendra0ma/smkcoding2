@@ -16,7 +16,7 @@ import com.corona.savelive.util.dissmisLoading
 import com.corona.savelive.util.showLoading
 import com.corona.savelive.util.tampilToast
 import kotlinx.android.synthetic.*
-import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.corona_item.*
 import kotlinx.android.synthetic.main.fragment_covid.*
 import retrofit2.Call
 import retrofit2.Callback
@@ -32,6 +32,8 @@ class CovidFragment : Fragment() {
     }
 
 
+
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -43,6 +45,10 @@ class CovidFragment : Fragment() {
     override fun onViewCreated(view: View, @Nullable savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         callApiKawalCorona()
+        btnCegah.setOnClickListener {
+            val intent = Intent(this@CovidFragment.context,CegahCoronaAct::class.java)
+            startActivity(intent)
+        }
 
     }
 
@@ -80,6 +86,7 @@ class CovidFragment : Fragment() {
         listCoronaData.adapter = CoronaAdapter(context!!, positifCorona) {
             val positif_Corona = it
             tampilToast(context!!, positif_Corona.name)
+
         }
     }
 

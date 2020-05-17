@@ -17,13 +17,7 @@
         android:padding="10dp"
         android:orientation="vertical">
 
-        <androidx.cardview.widget.CardView
-            android:padding="10dp"
-            android:layout_width="match_parent"
-            android:layout_height="200dp"
-            app:cardCornerRadius="5dp"
-            app:cardElevation="10dp"
-            >
+
 
 
         <ImageView
@@ -37,16 +31,16 @@
                 android:layout_gravity="bottom"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:fontFamily="sans-serif"
-                android:textColor="#343a40"
+                android:fontFamily="@font/gilroy_bold"
+                android:textColor="@color/bgLight"
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:padding="10dp"
-                android:text="Save world without Corona"
+                android:text="Save world from Corona"
                 android:gravity="center"
                 />
 
-        </androidx.cardview.widget.CardView>
+
 
     </LinearLayout>
 

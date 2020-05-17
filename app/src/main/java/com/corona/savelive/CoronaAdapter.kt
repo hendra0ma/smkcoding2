@@ -7,6 +7,7 @@ import com.corona.savelive.CoronaIndonesiaItem
 import com.corona.savelive.R
 import kotlinx.android.extensions.LayoutContainer
 import kotlinx.android.synthetic.main.corona_item.*
+import kotlinx.android.synthetic.main.fragment_covid.*
 
 class CoronaAdapter(private val context: Context, private val items:
 List<CoronaIndonesiaItem>, private val listener: (CoronaIndonesiaItem)-> Unit) :
@@ -25,7 +26,6 @@ List<CoronaIndonesiaItem>, private val listener: (CoronaIndonesiaItem)-> Unit) :
     class ViewHolder(val context: Context, override val containerView : View) :
         RecyclerView.ViewHolder(containerView), LayoutContainer{
         fun bindItem(item: CoronaIndonesiaItem, listener: (CoronaIndonesiaItem) -> Unit) {
-
             txtDirawat.text = item.dirawat
             txtPositif.text = item.positif
             txtMeninggal.text = item.meninggal
