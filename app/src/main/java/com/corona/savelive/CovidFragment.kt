@@ -1,6 +1,7 @@
 package com.corona.savelive
 
 import CoronaAdapter
+import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -15,6 +16,7 @@ import com.corona.savelive.util.dissmisLoading
 import com.corona.savelive.util.showLoading
 import com.corona.savelive.util.tampilToast
 import kotlinx.android.synthetic.*
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_covid.*
 import retrofit2.Call
 import retrofit2.Callback
@@ -25,9 +27,8 @@ class CovidFragment : Fragment() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
-
-
         super.onCreate(savedInstanceState)
+
     }
 
 
@@ -42,6 +43,7 @@ class CovidFragment : Fragment() {
     override fun onViewCreated(view: View, @Nullable savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         callApiKawalCorona()
+
     }
 
 

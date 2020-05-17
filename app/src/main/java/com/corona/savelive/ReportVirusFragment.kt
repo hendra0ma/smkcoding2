@@ -12,6 +12,7 @@ import com.corona.savelive.util.dissmisLoading
 import com.corona.savelive.util.showLoading
 import com.corona.savelive.util.tampilToast
 import kotlinx.android.synthetic.*
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_international.*
 import retrofit2.Call
 import retrofit2.Callback
@@ -21,6 +22,7 @@ import retrofit2.Response
 class ReportVirusFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
     }
 
 

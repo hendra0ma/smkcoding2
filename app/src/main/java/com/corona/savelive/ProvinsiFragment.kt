@@ -14,6 +14,7 @@ import com.corona.savelive.util.dissmisLoading
 import com.corona.savelive.util.showLoading
 import com.corona.savelive.util.tampilToast
 import kotlinx.android.synthetic.*
+import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.fragment_provinsi.*
 import retrofit2.Call
 import retrofit2.Callback
@@ -22,6 +23,7 @@ import retrofit2.Response
 class ProvinsiFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
     }
 
     private fun callApiProvinsi(){

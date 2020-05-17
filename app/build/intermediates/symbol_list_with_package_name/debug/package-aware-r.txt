@@ -1416,6 +1416,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_newspaper
+drawable ic_smiling_face
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1455,6 +1456,7 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id Linear1
 id META
 id Meninggal
 id Positif
@@ -1527,6 +1529,7 @@ id blocking
 id bottom
 id buttonPanel
 id cancel_button
+id cegahVIrus
 id center
 id center_horizontal
 id center_vertical

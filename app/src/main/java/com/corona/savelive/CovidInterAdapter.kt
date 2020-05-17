@@ -26,6 +26,7 @@ class CovidInterAdapter(private val context: Context,private val items : List<Da
     class ViewHolder(val context: Context,override val containerView: View):RecyclerView.ViewHolder(containerView),LayoutContainer{
         fun bindItem(item:DataInterationalItem,listener: (DataInterationalItem) -> Unit){
          itemView.txtNegara.text = item.attributes.countryRegion
+
             itemView.Positif.text = item.attributes.confirmed.toString()
             itemView.Sembuh.text = item.attributes.recovered.toString()
             itemView.Meninggal.text = item.attributes.deaths.toString()

@@ -6,7 +6,9 @@ import androidx.viewpager2.adapter.FragmentStateAdapter
 
 class KotakAdapter (fragmentActivity: FragmentActivity):FragmentStateAdapter(fragmentActivity) {
     private val menu = 3
+
     override fun createFragment(posisi: Int): Fragment {
+
        return when(posisi){
              0 -> CovidFragment()
            1-> ProvinsiFragment()

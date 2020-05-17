@@ -29,13 +29,12 @@ class CovidProvinsiAdapter(private val context :Context,private val items : List
             val atribut = item.attributes
             txtProvinsi.text = atribut.provinsi
 
+
             Positif.text = atribut.kasusPosi.toString()
             Sembuh.text = atribut.kasusSemb.toString()
             Meninggal.text = atribut.kasusMeni.toString()
+
                 containerView.setOnClickListener { listener(item) }
-
-
-
         }
     }
 }
