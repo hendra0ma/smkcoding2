@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.databinding:databinding-adapters:3.6.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\0776ef4d006731629dd247b0f18666a0\databinding-adapters-3.6.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:3.6.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\96bf195b9d8ef705b7f599130abfb238\databinding-runtime-3.6.3\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\8512c52731d315134842a1b23138b8fb\material-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
@@ -12,7 +12,7 @@ MERGED from [androidx.core:core-ktx:1.2.0] C:\Users\SMKI\.gradle\caches\transfor
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\726558a4bb31dea1ce6557a2ffbdb7b4\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\bf6ce888679a0e0fe6c888a37f9917a8\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\582442b3d334bf3670493e2a431edf6d\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\43ba5d69608d99dd708c118207789919\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\126d7b5095895023729087a05c414584\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\e166f71076374b198a2ee904528e6786\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\efc69b983dbc3cf6ee2c525074e6b96e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.databinding:viewbinding:3.6.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\2ba41ad9c07339d248bce7b8410b6d8d\jetified-viewbinding-3.6.3\AndroidManifest.xml:17:1-22:12
@@ -31,7 +31,7 @@ MERGED from [androidx.core:core:1.2.0] C:\Users\SMKI\.gradle\caches\transforms-2
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\8bac9bd7a86174748b52a15a5a584acc\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\9d47eee345a93274d0cc853b4996ae89\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\79b414556b3c7b289d7095114428336d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\cac1a3aa3cd22805158e566292a04b47\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\64458e00b7b90a0ef05122a03671f669\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\2e4cefee5c044a55708f002a960a40ea\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\2845d914291cd9b5fb3ea273b3e18520\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\3f36825e73c19bedd65578e9ea6cfdd9\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
@@ -39,83 +39,83 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SMKI\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\1ed723ba326cf3768e503dbd91c8d62b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\25aeb144c7213105f8f92fff796d4a44\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\c23fa3ebbf0e445c06efb9f454a474c5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:1-25:12
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:7:5-23:19
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:7:5-23:19
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\8512c52731d315134842a1b23138b8fb\material-1.2.0-alpha06\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\8512c52731d315134842a1b23138b8fb\material-1.2.0-alpha06\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\726558a4bb31dea1ce6557a2ffbdb7b4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\726558a4bb31dea1ce6557a2ffbdb7b4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\43ba5d69608d99dd708c118207789919\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\43ba5d69608d99dd708c118207789919\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\126d7b5095895023729087a05c414584\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\126d7b5095895023729087a05c414584\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
 MERGED from [androidx.core:core:1.2.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\764e2c6f805663a30c8cfc52ae4d6d9a\core-1.2.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.2.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\764e2c6f805663a30c8cfc52ae4d6d9a\core-1.2.0\AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\9d47eee345a93274d0cc853b4996ae89\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\9d47eee345a93274d0cc853b4996ae89\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\cac1a3aa3cd22805158e566292a04b47\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\cac1a3aa3cd22805158e566292a04b47\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\64458e00b7b90a0ef05122a03671f669\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\64458e00b7b90a0ef05122a03671f669\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\764e2c6f805663a30c8cfc52ae4d6d9a\core-1.2.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:9:9-45
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:9:9-45
 	android:allowBackup
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.corona.savelive.SocialDistance
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:13:9-61
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:9-61
 	android:name
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:13:19-49
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:19-49
 activity#com.corona.savelive.CegahCoronaAct
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:14:9-52
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:9-52
 	android:name
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:14:19-49
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:19-49
 activity#com.corona.savelive.MainActivity
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:15:9-50
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:9-50
 	android:name
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:15:19-47
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:19-47
 activity#com.corona.savelive.SplashScreen
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:16:9-22:20
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:16:9-22:20
 	android:name
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:16:19-47
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:databinding-adapters:3.6.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\0776ef4d006731629dd247b0f18666a0\databinding-adapters-3.6.3\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-adapters:3.6.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\0776ef4d006731629dd247b0f18666a0\databinding-adapters-3.6.3\AndroidManifest.xml:22:5-44
 MERGED from [androidx.databinding:databinding-runtime:3.6.3] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\96bf195b9d8ef705b7f599130abfb238\databinding-runtime-3.6.3\AndroidManifest.xml:22:5-44
@@ -132,8 +132,8 @@ MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SMKI\.gradle\caches\
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\bf6ce888679a0e0fe6c888a37f9917a8\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\582442b3d334bf3670493e2a431edf6d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\582442b3d334bf3670493e2a431edf6d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\43ba5d69608d99dd708c118207789919\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\43ba5d69608d99dd708c118207789919\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\126d7b5095895023729087a05c414584\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\126d7b5095895023729087a05c414584\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\e166f71076374b198a2ee904528e6786\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\e166f71076374b198a2ee904528e6786\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\efc69b983dbc3cf6ee2c525074e6b96e\cardview-1.0.0\AndroidManifest.xml:20:5-44
@@ -170,8 +170,8 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SM
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\9d47eee345a93274d0cc853b4996ae89\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\79b414556b3c7b289d7095114428336d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\79b414556b3c7b289d7095114428336d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\cac1a3aa3cd22805158e566292a04b47\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\cac1a3aa3cd22805158e566292a04b47\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\64458e00b7b90a0ef05122a03671f669\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\64458e00b7b90a0ef05122a03671f669\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\2e4cefee5c044a55708f002a960a40ea\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\2e4cefee5c044a55708f002a960a40ea\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\2845d914291cd9b5fb3ea273b3e18520\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
@@ -186,13 +186,13 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SMKI\.gradle\caches
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\25aeb144c7213105f8f92fff796d4a44\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\c23fa3ebbf0e445c06efb9f454a474c5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\c23fa3ebbf0e445c06efb9f454a474c5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\SMKI\AndroidStudioProjects\SaveLiveFromCorona\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
