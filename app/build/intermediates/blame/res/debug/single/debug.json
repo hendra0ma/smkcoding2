@@ -180,6 +180,10 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_gaming.png"
     },
     {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_admin.xml.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\layout\\activity_chat_admin.xml"
+    },
+    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },

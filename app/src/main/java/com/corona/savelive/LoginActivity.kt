@@ -15,7 +15,7 @@ import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity() ,View.OnClickListener{
     private var auth:FirebaseAuth? = FirebaseAuth.getInstance()
-    private var RC_SIGN_IN = 1
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
@@ -50,4 +50,9 @@ class LoginActivity : AppCompatActivity() ,View.OnClickListener{
         )
         progress.visibility = View.VISIBLE
     }
+    companion object{
+        const val TAG = "GoogleActivity"
+        private const val RC_SIGN_IN =9001
+    }
+
 }

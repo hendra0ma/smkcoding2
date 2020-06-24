@@ -1714,6 +1714,7 @@ id dropdown_menu
 id dynamic
 id edit_phone_number
 id edit_query
+id edtNama
 id email
 id email_button
 id email_footer_tos_and_pp_text
@@ -1899,6 +1900,7 @@ id start
 id status_bar_latest_event_content
 id stretch
 id submenuarrow
+id submit
 id submit_area
 id swipeRefreshLayout
 id swipeRefreshLayoutInter
@@ -2036,6 +2038,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_cegah_corona
+layout activity_chat_admin
 layout activity_login
 layout activity_main
 layout activity_social_distance
