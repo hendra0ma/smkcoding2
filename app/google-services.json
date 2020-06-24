@@ -8,18 +8,18 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:532263008847:android:77bdda6b521a4e58b3483a",
+        "mobilesdk_app_id": "1:532263008847:android:c64dd3aa218dedc5b3483a",
         "android_client_info": {
           "package_name": "com.corona.savelive"
         }
       },
       "oauth_client": [
         {
-          "client_id": "532263008847-aorkftqrqp1kqq8itj6pdh7dgjg7hqa4.apps.googleusercontent.com",
+          "client_id": "532263008847-ud732qbgop75accgl7apo1746163dtcq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.corona.savelive",
-            "certificate_hash": "222dbfa0f7d3acab92a7dea9a32926b40489fb3c"
+            "certificate_hash": "d4283204e9771b8a68210293ce22344b17a00d80"
           }
         },
         {

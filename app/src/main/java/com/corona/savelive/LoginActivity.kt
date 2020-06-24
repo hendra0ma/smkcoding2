@@ -1,25 +1,27 @@
 package com.corona.savelive
 
 import android.app.Activity
+import android.content.Context
 import android.content.Intent
+import android.graphics.ColorSpace
+import android.os.Build.MODEL
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import com.firebase.ui.auth.AuthUI
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity() ,View.OnClickListener{
-    private var auth:FirebaseAuth? = null
+    private var auth:FirebaseAuth? = FirebaseAuth.getInstance()
     private var RC_SIGN_IN = 1
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
         progress.visibility = View.GONE
         login.setOnClickListener ( this )
-        auth = FirebaseAuth.getInstance()
-        if (auth!!.currentUser = null){
-            Toast.makeText(this,"belum login",Toast.LENGTH_SHORT).show()
+        if (auth!!.currentUser == null){
         }else{
             startActivity(Intent(applicationContext,MainActivity::class.java))
             finish()
@@ -40,7 +42,12 @@ class LoginActivity : AppCompatActivity() ,View.OnClickListener{
 
     override fun onClick(v: View?) {
         startActivityForResult(
-
+            AuthUI.getInstance()
+                .createSignInIntentBuilder()
+                .setAvailableProviders(listOf(AuthUI.IdpConfig.GoogleBuilder().build()))
+                .setIsSmartLockEnabled(false)
+                .build(),RC_SIGN_IN
         )
+        progress.visibility = View.VISIBLE
     }
 }

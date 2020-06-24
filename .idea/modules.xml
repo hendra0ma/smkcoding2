@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Save Live From Corona.iml" filepath="$PROJECT_DIR$/Save Live From Corona.iml" group="Save Live From Corona" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Save_Live_From_Corona.iml" filepath="$PROJECT_DIR$/.idea/modules/Save_Live_From_Corona.iml" group="Save_Live_From_Corona" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Save Live From Corona/app" />
     </modules>
   </component>

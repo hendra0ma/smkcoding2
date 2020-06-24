@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\8512c52731d315134842a1b23138b8fb\\material-1.2.0-alpha06\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\f9cbc7109ce3df787b16bc263a87b8bd\\material-1.2.0-alpha06\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

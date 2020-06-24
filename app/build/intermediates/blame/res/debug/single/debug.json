@@ -28,28 +28,32 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\report_virus.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard_arrow_right_black_24dp.png"
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_newspaper.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_newspaper.png"
     },
     {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_world.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_world.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_smiling_face.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_smiling_face.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_smiling_face.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_smiling_face.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_world.png.flat",
@@ -88,12 +92,12 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_indonesia.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_indonesia.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_keyboard_arrow_right_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
@@ -252,12 +256,12 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_smiling_face.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_indonesia.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_indonesia.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
@@ -292,12 +296,12 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_gaming.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_world.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_world.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\font_gilroy_bold.otf.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\font\\gilroy_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_world.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_world.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_gaming.png.flat",

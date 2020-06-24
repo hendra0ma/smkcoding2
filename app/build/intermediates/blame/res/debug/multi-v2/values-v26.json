@@ -4,7 +4,26 @@
             "outputFile": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\eae9d07c0c4d830a2faa88b6f1f64c53\\appcompat-1.1.0\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\4fef9856f73ea5d88b28beed4aa4d4d8\\jetified-firebase-ui-auth-6.2.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,6,10,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,253,438,631",
+                        "endLines": "5,9,13,17",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "248,433,626,806"
+                    },
+                    "to": {
+                        "startLines": "17,21,25,29",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "989,1187,1372,1565",
+                        "endLines": "20,24,28,32",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1182,1367,1560,1740"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SMKI\\.gradle\\caches\\transforms-2\\files-2.1\\751e3bda8173f29662f8bd47614788c5\\appcompat-1.1.0\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
