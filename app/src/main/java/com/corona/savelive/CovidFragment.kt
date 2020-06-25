@@ -1,6 +1,7 @@
 package com.corona.savelive
 
 import CoronaAdapter
+import android.app.AlertDialog
 import android.content.Intent
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -15,25 +16,23 @@ import com.corona.savelive.data.httpClient
 import com.corona.savelive.util.dissmisLoading
 import com.corona.savelive.util.showLoading
 import com.corona.savelive.util.tampilToast
+import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.*
 import kotlinx.android.synthetic.main.corona_item.*
 import kotlinx.android.synthetic.main.fragment_covid.*
+import kotlinx.android.synthetic.main.fragment_covid.view.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
 
 class CovidFragment : Fragment() {
 
-
+    private lateinit var auth : FirebaseAuth
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
     }
-
-
-
-
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -45,11 +44,33 @@ class CovidFragment : Fragment() {
     override fun onViewCreated(view: View, @Nullable savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         callApiKawalCorona()
+        view.btnLogout.setOnClickListener{
+            logoutu()
+        }
         btnCegah.setOnClickListener {
             val intent = Intent(this@CovidFragment.context,CegahCoronaAct::class.java)
             startActivity(intent)
         }
+    }
 
+    private fun logoutu() {
+        val builder =AlertDialog.Builder(context)
+        auth = FirebaseAuth.getInstance()
+        val inflates : LayoutInflater = LayoutInflater.from(context)
+        val view =inflates.inflate(R.layout.logout,null)
+        builder.setView(view)
+        builder.setPositiveButton("Yes"){p0,p1->
+            auth.signOut()
+            Intent(this.context,LoginActivity::class.java).also {
+                it.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
+                startActivity(it)
+            }
+        }
+        builder.setNegativeButton("No"){p0,p1->
+
+        }
+
+        builder.create().show()
     }
 
 

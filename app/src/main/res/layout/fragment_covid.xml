@@ -22,12 +22,32 @@
             android:layout_height="150dp"
             android:background="#343a40"
             />
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/logout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageButton
+        android:id="@+id/btnLogout"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right"
+        android:layout_margin="5dp"
+        android:background="@color/bgPrimary"
+        android:fontFamily="@font/gilroy_bold"
+        android:src="@drawable/abc_vector_test"
+        android:textColor="@color/bgLight"
+        android:textSize="15sp"
+        tools:layout_editor_absoluteX="355dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:ignore="MissingConstraints" />
+</androidx.constraintlayout.widget.ConstraintLayout>
     <LinearLayout
+        android:layout_below="@+id/logout1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="10dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="2dp"
         >
         <androidx.cardview.widget.CardView
 

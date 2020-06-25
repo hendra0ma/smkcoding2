@@ -1657,6 +1657,7 @@ id btnCegah
 id btnDistance
 id btnForgotPassword
 id btnLogin
+id btnLogout
 id btnRegister
 id btn_holder
 id buttonPanel
@@ -1782,6 +1783,7 @@ id listCoronaData
 id listMode
 id list_item
 id logo
+id logout1
 id main_tos_and_pp
 id masked
 id media_actions
@@ -1927,7 +1929,6 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
-id textView
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2101,6 +2102,7 @@ layout fui_register_email_layout
 layout fui_welcome_back_email_link_prompt_layout
 layout fui_welcome_back_idp_prompt_layout
 layout fui_welcome_back_password_prompt_layout
+layout logout
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
