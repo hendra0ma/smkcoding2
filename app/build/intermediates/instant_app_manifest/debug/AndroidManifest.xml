@@ -21,12 +21,13 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.corona.savelive.LoginActivity" />
+        <activity android:name="com.corona.savelive.RegisterActivity" />
+        <activity android:name="com.corona.savelive.ChatAdmin" />
         <activity android:name="com.corona.savelive.SplashScreen" />
         <activity android:name="com.corona.savelive.SocialDistance" />
         <activity android:name="com.corona.savelive.CegahCoronaAct" />
         <activity android:name="com.corona.savelive.MainActivity" />
-        <activity android:name="com.corona.savelive.ChatAdmin" >
+        <activity android:name="com.corona.savelive.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

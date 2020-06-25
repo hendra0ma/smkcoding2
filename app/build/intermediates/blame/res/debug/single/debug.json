@@ -24,6 +24,10 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_newspaper.xml"
     },
     {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_report_virus.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\report_virus.png"
     },

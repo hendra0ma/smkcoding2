@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="@color/bgLight"
+        android:fontFamily="@font/gilroy_bold"
+        android:text="Register"
+        android:gravity="center"
+        />
+
+<androidx.cardview.widget.CardView
+    android:layout_gravity="center_horizontal"
+    android:layout_margin="10sp"
+    android:layout_width="match_parent"
+    app:cardCornerRadius="10sp"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_margin="5sp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:layout_margin="2sp"
+        android:id="@+id/daftarEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        />
+        <EditText
+            android:layout_margin="2sp"
+            android:id="@+id/daftarPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="password"
+            android:inputType="textPassword"
+            />
+    <Button
+        android:layout_margin="2sp"
+        android:id="@+id/btnRegister"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Submit"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+
+</LinearLayout>

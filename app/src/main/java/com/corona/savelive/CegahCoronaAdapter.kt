@@ -28,7 +28,6 @@ class CegahCoronaAdapter (private  val context: Context,
     class ViewHolder (override val containerView : View) : RecyclerView.ViewHolder(containerView),LayoutContainer{
     fun bindItem(item : CegahCorona){
         txtCegah.text = item.caracegah
-
     }
 
 

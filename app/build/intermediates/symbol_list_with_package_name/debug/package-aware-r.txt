@@ -1655,6 +1655,9 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btnCegah
 id btnDistance
+id btnForgotPassword
+id btnLogin
+id btnRegister
 id btn_holder
 id buttonPanel
 id button_continue
@@ -1665,6 +1668,7 @@ id button_resend_email
 id button_sign_in
 id cancel_action
 id cancel_button
+id cardView
 id cegahCoronaItem
 id center
 id center_horizontal
@@ -1695,6 +1699,8 @@ id cross_device_linking_body
 id custom
 id customPanel
 id cut
+id daftarEmail
+id daftarPassword
 id dark
 id dataInter
 id date_picker_actions
@@ -1725,6 +1731,8 @@ id end
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
+id etEmail
+id etPassword
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -1757,7 +1765,6 @@ id icon_group
 id icon_only
 id ifRoom
 id image
-id imageView
 id info
 id invisible
 id invisible_frame
@@ -1774,7 +1781,6 @@ id line3
 id listCoronaData
 id listMode
 id list_item
-id login
 id logo
 id main_tos_and_pp
 id masked
@@ -1839,7 +1845,6 @@ id phone_button
 id phone_layout
 id phone_number
 id pin
-id progress
 id progress_circular
 id progress_horizontal
 id radio
@@ -1922,6 +1927,7 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -2041,6 +2047,7 @@ layout activity_cegah_corona
 layout activity_chat_admin
 layout activity_login
 layout activity_main
+layout activity_register
 layout activity_social_distance
 layout activity_splash_screen
 layout browser_actions_context_menu_page

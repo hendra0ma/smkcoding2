@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.1] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\4fef9856f73ea5d88b28beed4aa4d4d8\jetified-firebase-ui-auth-6.2.1\AndroidManifest.xml:2:1-109:12
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\f9cbc7109ce3df787b16bc263a87b8bd\material-1.2.0-alpha06\AndroidManifest.xml:17:1-24:12
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.6.1] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\eaed4347f217d2473f67a60bf876ff84\jetified-library-1.6.1\AndroidManifest.xml:6:1-15:12
@@ -63,20 +63,20 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SMKI\.gradle\caches\
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\41adc64b08367cc0e0230b800117b7ee\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\92ae526b2464b9b601c140131befe78c\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\91a20e155dcad978c64dd9d19e24f17c\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:1-28:12
 		INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:2:11-69
@@ -89,7 +89,7 @@ MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\SMKI\.gradle
 	android:name
 		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:7:5-25:19
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:7:5-26:19
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.1] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\4fef9856f73ea5d88b28beed4aa4d4d8\jetified-firebase-ui-auth-6.2.1\AndroidManifest.xml:15:5-107:19
 MERGED from [com.firebaseui:firebase-ui-auth:6.2.1] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\4fef9856f73ea5d88b28beed4aa4d4d8\jetified-firebase-ui-auth-6.2.1\AndroidManifest.xml:15:5-107:19
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\SMKI\.gradle\caches\transforms-2\files-2.1\f9cbc7109ce3df787b16bc263a87b8bd\material-1.2.0-alpha06\AndroidManifest.xml:22:5-20
@@ -136,40 +136,44 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\SMKI\.gradle\c
 		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:12:9-40
-activity#com.corona.savelive.LoginActivity
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:9-60
+activity#com.corona.savelive.RegisterActivity
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:9-63
 	android:name
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:19-48
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:19-51
+activity#com.corona.savelive.ChatAdmin
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:9-47
+	android:name
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:19-44
 activity#com.corona.savelive.SplashScreen
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:9-50
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:9-50
 	android:name
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:19-47
 activity#com.corona.savelive.SocialDistance
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:9-52
-	android:name
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:19-49
-activity#com.corona.savelive.CegahCoronaAct
 ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:16:9-52
 	android:name
 		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:16:19-49
+activity#com.corona.savelive.CegahCoronaAct
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:17:9-52
+	android:name
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:17:19-49
 activity#com.corona.savelive.MainActivity
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:17:9-50
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:18:9-50
 	android:name
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:17:19-47
-activity#com.corona.savelive.ChatAdmin
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:18:9-24:20
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:18:19-47
+activity#com.corona.savelive.LoginActivity
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:18:19-44
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:19:19-48
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
 INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml
