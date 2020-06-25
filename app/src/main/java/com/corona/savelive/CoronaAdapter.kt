@@ -30,7 +30,6 @@ List<CoronaIndonesiaItem>, private val listener: (CoronaIndonesiaItem)-> Unit) :
             txtPositif.text = item.positif
             txtMeninggal.text = item.meninggal
             txtSembuh.text = item.sembuh
-
             containerView.setOnClickListener { listener(item) }
         }
     }
