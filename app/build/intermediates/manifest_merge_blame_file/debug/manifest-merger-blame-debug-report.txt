@@ -33,15 +33,15 @@
 21        android:testOnly="true"
 22        android:theme="@style/AppTheme" >
 22-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:12:9-40
-23        <activity android:name="com.corona.savelive.RegisterActivity" />
-23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:9-63
-23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:19-51
-24        <activity android:name="com.corona.savelive.ChatAdmin" />
-24-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:9-47
-24-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:19-44
-25        <activity android:name="com.corona.savelive.SplashScreen" />
-25-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:9-50
-25-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:19-47
+23        <activity android:name="com.corona.savelive.lihatChat" />
+23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:9-56
+23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:19-44
+24        <activity android:name="com.corona.savelive.RegisterActivity" />
+24-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:9-54
+24-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:19-51
+25        <activity android:name="com.corona.savelive.ChatAdmin" />
+25-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:9-47
+25-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:15:19-44
 26        <activity android:name="com.corona.savelive.SocialDistance" />
 26-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:16:9-52
 26-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:16:19-49

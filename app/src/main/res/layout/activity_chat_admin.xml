@@ -7,24 +7,23 @@
     android:orientation="vertical"
     android:layout_margin="10sp"
     tools:context=".ChatAdmin">
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="nama anda : "
-        android:textSize="20sp"
-        android:outlineAmbientShadowColor="@color/bgDark"
-        android:textColor="@color/bgDanger"
-        />
+
 
     <EditText
         android:id="@+id/edtNama"
+        android:layout_width="match_parent"
+        android:hint="nama"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/edtPesan"
+        android:hint="pesan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
     <Button
         android:id="@+id/submit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="insert"
+        android:text="kirim"
         />
 
 </LinearLayout>

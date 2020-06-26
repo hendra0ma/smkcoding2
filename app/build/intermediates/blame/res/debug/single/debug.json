@@ -40,12 +40,12 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_newspaper.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_newspaper.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard_arrow_right_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_newspaper.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_newspaper.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_world.png.flat",
@@ -160,12 +160,12 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gaming.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_gaming.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_gaming.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_gaming.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_gaming.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_gaming.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_report_virus.png.flat",
@@ -344,6 +344,10 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\layout\\activity_social_distance.xml"
     },
     {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_pesan.xml.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\layout\\list_pesan.xml"
+    },
+    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_gaming.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_gaming.png"
     },
@@ -372,8 +376,8 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lihat_chat.xml.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\layout\\activity_lihat_chat.xml"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",

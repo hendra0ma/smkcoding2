@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "532263008847",
-    "firebase_url": "https://save-live-from-corona.firebaseio.com",
-    "project_id": "save-live-from-corona",
-    "storage_bucket": "save-live-from-corona.appspot.com"
+    "project_number": "359071721217",
+    "firebase_url": "https://save-live-corona.firebaseio.com",
+    "project_id": "save-live-corona",
+    "storage_bucket": "save-live-corona.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:532263008847:android:c64dd3aa218dedc5b3483a",
+        "mobilesdk_app_id": "1:359071721217:android:78e78000d57f8bd42f9d00",
         "android_client_info": {
           "package_name": "com.corona.savelive"
         }
       },
       "oauth_client": [
         {
-          "client_id": "532263008847-ud732qbgop75accgl7apo1746163dtcq.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.corona.savelive",
-            "certificate_hash": "d4283204e9771b8a68210293ce22344b17a00d80"
-          }
-        },
-        {
-          "client_id": "532263008847-hs52pjpq7d93l7op5aki61nl3q5da37h.apps.googleusercontent.com",
+          "client_id": "359071721217-eoppfo149s3u8em90pijqd3ecmcr0d55.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyATYkSXGF7I8dpIGa1UpLBwcxRD6xmpXGM"
+          "current_key": "AIzaSyB7HumKQg4VGvOimEkrk3spHozhcaanXEw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "532263008847-hs52pjpq7d93l7op5aki61nl3q5da37h.apps.googleusercontent.com",
+              "client_id": "359071721217-eoppfo149s3u8em90pijqd3ecmcr0d55.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
