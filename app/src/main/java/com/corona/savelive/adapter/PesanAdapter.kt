@@ -17,6 +17,7 @@ class PesanAdapter(val mctx : Context,val layoutres : Int,val list : List<Modeli
         val view :View = layoutInflater.inflate(layoutres,null)
         val pesan = view.findViewById<TextView>(R.id.pesan)
         val nama = view.findViewById<TextView>(R.id.namanyaSaya)
+
         val PesanModel =list[position]
         pesan.text = PesanModel.pesan
         nama.text = PesanModel.nama

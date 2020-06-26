@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">532263008847-hs52pjpq7d93l7op5aki61nl3q5da37h.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://save-live-from-corona.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">532263008847</string>
-    <string name="google_api_key" translatable="false">AIzaSyATYkSXGF7I8dpIGa1UpLBwcxRD6xmpXGM</string>
-    <string name="google_app_id" translatable="false">1:532263008847:android:c64dd3aa218dedc5b3483a</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATYkSXGF7I8dpIGa1UpLBwcxRD6xmpXGM</string>
-    <string name="google_storage_bucket" translatable="false">save-live-from-corona.appspot.com</string>
-    <string name="project_id" translatable="false">save-live-from-corona</string>
+    <string name="default_web_client_id" translatable="false">359071721217-eoppfo149s3u8em90pijqd3ecmcr0d55.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://save-live-corona.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">359071721217</string>
+    <string name="google_api_key" translatable="false">AIzaSyB7HumKQg4VGvOimEkrk3spHozhcaanXEw</string>
+    <string name="google_app_id" translatable="false">1:359071721217:android:78e78000d57f8bd42f9d00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB7HumKQg4VGvOimEkrk3spHozhcaanXEw</string>
+    <string name="google_storage_bucket" translatable="false">save-live-corona.appspot.com</string>
+    <string name="project_id" translatable="false">save-live-corona</string>
 </resources>
