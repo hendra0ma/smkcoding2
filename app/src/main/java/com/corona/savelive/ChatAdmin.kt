@@ -28,8 +28,9 @@ class ChatAdmin : AppCompatActivity() {
             var insert = Modelinsert(id!!,edtNama.text.toString(),edtPesan.text.toString())
             firebase.child(uId).child("Pesan").push().setValue(insert).addOnCompleteListener{
                 Toast.makeText(this,"berhasil",Toast.LENGTH_SHORT).show()
-                Intent(this,lihatChat::class.java).also {
+                Intent(this,MainActivity::class.java).also {
                     startActivity(it)
+                    finish()
                 }
         }
     }

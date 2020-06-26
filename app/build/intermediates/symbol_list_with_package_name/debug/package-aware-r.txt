@@ -1516,6 +1516,7 @@ drawable fui_idp_button_background_twitter
 drawable fui_idp_button_background_yahoo
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_baseline_create_24
 drawable ic_chat_black_24dp
 drawable ic_gaming
 drawable ic_indonesia
@@ -1655,10 +1656,14 @@ id browser_actions_menu_items
 id browser_actions_menu_view
 id btnCegah
 id btnDistance
+id btnEdit
+id btnFab
 id btnForgotPassword
+id btnHapus
 id btnLogin
 id btnLogout
 id btnRegister
+id btnSimpan
 id btn_holder
 id buttonPanel
 id button_continue
@@ -1719,6 +1724,7 @@ id disableHome
 id drawer_layout
 id dropdown_menu
 id dynamic
+id editPesan
 id edit_phone_number
 id edit_query
 id edtNama
@@ -1821,6 +1827,7 @@ id mtrl_picker_text_input_range_end
 id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
+id namaAndaku
 id namanyaSaya
 id name
 id name_layout
@@ -2049,9 +2056,9 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_cegah_corona
 layout activity_chat_admin
-layout activity_lihat_chat
 layout activity_login
 layout activity_main
+layout activity_my_update
 layout activity_register
 layout activity_social_distance
 layout browser_actions_context_menu_page
@@ -2150,6 +2157,7 @@ layout notification_template_media
 layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout pesan_fragment
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

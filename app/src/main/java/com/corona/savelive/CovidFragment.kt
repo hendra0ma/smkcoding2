@@ -48,7 +48,7 @@ class CovidFragment : Fragment() {
             logoutu()
         }
         btnCegah.setOnClickListener {
-            val intent = Intent(this@CovidFragment.context,ChatAdmin::class.java)
+            val intent = Intent(this@CovidFragment.context,CegahCoronaAct::class.java)
             startActivity(intent)
         }
 

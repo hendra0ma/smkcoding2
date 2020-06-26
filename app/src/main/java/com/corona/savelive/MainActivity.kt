@@ -12,7 +12,7 @@ import kotlinx.android.synthetic.main.fragment_covid.*
 class MainActivity : AppCompatActivity() {
 
 
-    val icon = arrayOf(R.drawable.ic_indonesia,R.drawable.ic_gaming,R.drawable.ic_world)
+    val icon = arrayOf(R.drawable.ic_indonesia,R.drawable.ic_gaming,R.drawable.ic_world,R.drawable.ic_launcher)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

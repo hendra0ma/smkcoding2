@@ -21,7 +21,7 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.corona.savelive.lihatChat" />
+        <activity android:name="com.corona.savelive.MyUpdateActivity" />
         <activity android:name="com.corona.savelive.RegisterActivity" />
         <activity android:name="com.corona.savelive.ChatAdmin" />
         <activity android:name="com.corona.savelive.SocialDistance" />

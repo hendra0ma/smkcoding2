@@ -1,5 +1,5 @@
 package com.corona.savelive.model
 
-class Modelinsert(val id: String?, val nama: String,val pesan :String){
+data class Modelinsert(var id: String, val nama: String, val pesan :String){
         constructor():this("","","")
 }

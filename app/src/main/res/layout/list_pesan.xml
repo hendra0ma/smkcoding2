@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
 
 
     <androidx.cardview.widget.CardView
@@ -22,19 +22,40 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             >
-            <TextView
-                android:id="@+id/namanyaSaya"
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="left"
-                android:text="Dirawat"
-                android:textColor="@color/bgDark"
-                android:textStyle="bold"
-                android:textSize="20sp"
-                />
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/namanyaSaya"
+                    android:layout_width="200sp"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="Dirawat"
+                    android:textColor="@color/bgDark"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    />
+                <TextView
+                    android:gravity="center"
+                    android:id="@+id/btnEdit"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Edit"
+                    android:background="@color/bgDark"
+                    android:textSize="20sp"
+                    android:textColor="@color/bgPrimary"
+                    />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_marginTop="5sp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
             <TextView
+
                 android:id="@+id/pesan"
-                android:layout_width="match_parent"
+                android:layout_width="200sp"
                 android:layout_height="wrap_content"
                 android:gravity="left"
                 android:text="Dirawat"
@@ -42,6 +63,17 @@
                 android:textStyle="bold"
                 android:textSize="16sp"
                 />
+                <TextView
+                    android:gravity="center"
+                    android:id="@+id/btnHapus"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hapus"
+                    android:background="@color/bgDanger"
+                    android:textSize="20sp"
+                    android:textColor="@color/bgLight"
+                    />
+            </LinearLayout>
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 </LinearLayout>

@@ -33,9 +33,9 @@
 21        android:testOnly="true"
 22        android:theme="@style/AppTheme" >
 22-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:12:9-40
-23        <activity android:name="com.corona.savelive.lihatChat" />
-23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:9-56
-23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:19-44
+23        <activity android:name="com.corona.savelive.MyUpdateActivity" />
+23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:9-63
+23-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:13:19-51
 24        <activity android:name="com.corona.savelive.RegisterActivity" />
 24-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:9-54
 24-->C:\Users\SMKI\Downloads\smkcoding2\app\src\main\AndroidManifest.xml:14:19-51
