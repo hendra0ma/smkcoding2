@@ -2,30 +2,33 @@ package com.corona.savelive.fragment
 
 import android.content.Intent
 import android.os.Bundle
-import android.os.Parcel
-import android.os.Parcelable
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.annotation.Nullable
 import androidx.fragment.app.Fragment
+import androidx.fragment.app.viewModels
+import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.bumptech.glide.Glide.init
 import com.corona.savelive.ChatAdmin
 import com.corona.savelive.R
 import com.corona.savelive.adapter.PesanAdapter
 import com.corona.savelive.model.Modelinsert
+import com.corona.savelive.viewModel.pesanFragmentViewModel
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.*
 import kotlinx.android.synthetic.*
 import kotlinx.android.synthetic.main.pesan_fragment.*
 
 class pesanFragment : Fragment() ,PesanAdapter.dataListener{
+
     lateinit var ref: DatabaseReference
     private var auth: FirebaseAuth? = null
-    var dataPesan: MutableList<Modelinsert> = ArrayList()
 
+    var dataPesan: MutableList<Modelinsert> = ArrayList()
+    private val viewModel by viewModels<pesanFragmentViewModel>()
+    private var adapter : PesanAdapter? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
     }
@@ -40,8 +43,12 @@ class pesanFragment : Fragment() ,PesanAdapter.dataListener{
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
+        init()
         getdata()
+        viewModel.init(requireContext())
+        viewModel.Allpesan.observe(viewLifecycleOwner, Observer { pesan->
+            pesan?.let { adapter?.setData(it)}
+        })
         btnFab.setOnClickListener {
             Intent(getActivity(), ChatAdmin::class.java).also {
                 getActivity()?.startActivity(it)
@@ -49,6 +56,13 @@ class pesanFragment : Fragment() ,PesanAdapter.dataListener{
         }
 
     }
+    private fun init(){
+        listPesan.layoutManager = LinearLayoutManager(context)
+        adapter = PesanAdapter(requireContext(),dataPesan)
+        listPesan.adapter = adapter
+        adapter?.listener=this
+    }
+
 
     private fun getdata() {
         auth = FirebaseAuth.getInstance()
@@ -66,9 +80,7 @@ class pesanFragment : Fragment() ,PesanAdapter.dataListener{
                     pesan?.id = (snap.key!!)
                     dataPesan.add(pesan!!)
                 }
-                listPesan.layoutManager = LinearLayoutManager(context)
-                listPesan.adapter = PesanAdapter(context!!, dataPesan)
-                Toast.makeText(context, "data berhasil di muat", Toast.LENGTH_LONG).show()
+                viewModel.insertAll(dataPesan)
             }
         })
     }
@@ -87,7 +99,7 @@ class pesanFragment : Fragment() ,PesanAdapter.dataListener{
             .removeValue()
             .addOnSuccessListener {
                 Toast.makeText(context, "Data Berhasil Dihapus", Toast.LENGTH_SHORT).show()
-
+                viewModel.delete(data)
             }
     }
 

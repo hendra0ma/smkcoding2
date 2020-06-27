@@ -4,12 +4,12 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\src\\main\\res\\drawable-v24\\microbe.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_create_24.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_create_24.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_create_24.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_create_24.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_chat_black_24dp.png.flat",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
-        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard_arrow_right_black_24dp.png"
-    },
-    {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_newspaper.png.flat",
         "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_newspaper.png"
+    },
+    {
+        "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_arrow_right_black_24dp.png.flat",
+        "source": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard_arrow_right_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\SMKI\\Downloads\\smkcoding2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_update.xml.flat",

@@ -8,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.RecyclerView
 import com.corona.savelive.MyUpdateActivity
 import com.corona.savelive.R
@@ -21,10 +22,14 @@ import kotlinx.android.synthetic.main.list_pesan.*
 
 class PesanAdapter(private var context: Context,private var list :List<Modelinsert>):RecyclerView.Adapter<PesanAdapter.ViewHolder>(){
 
+    var listener: dataListener? = null
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) = ViewHolder(LayoutInflater.from(context).inflate(
         R.layout.list_pesan,parent,false))
-
+    fun setData(list: List<Modelinsert>){
+        this.list = list
+        notifyDataSetChanged()
+    }
     override fun getItemCount(): Int {
         return list.size
     }
@@ -50,6 +55,7 @@ class PesanAdapter(private var context: Context,private var list :List<Modelinse
         holder.btnHapus.setOnClickListener {
              val uid = auth?.getCurrentUser()?.getUid().toString()
             ref.child(uid).child("Pesan").child(list.get(position)?.id.toString()).removeValue().addOnCompleteListener {
+            listener?.OnDeleteData(list.get(position),position)
                 Toast.makeText(this.context,"data terhapus",Toast.LENGTH_SHORT).show()
             }
         }
@@ -57,7 +63,7 @@ class PesanAdapter(private var context: Context,private var list :List<Modelinse
 
     class ViewHolder(override val containerView : View):RecyclerView.ViewHolder(containerView),LayoutContainer{
 
-           fun bindItem(item: Modelinsert){
+        fun bindItem(item: Modelinsert){
             pesan.text = item.pesan
             namanyaSaya.text = item.nama
 

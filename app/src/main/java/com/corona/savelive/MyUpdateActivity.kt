@@ -1,17 +1,18 @@
 package com.corona.savelive
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils.isEmpty
 import android.widget.Button
 import android.widget.EditText
 import android.widget.Toast
+import androidx.activity.viewModels
 import com.corona.savelive.model.Modelinsert
+import com.corona.savelive.viewModel.pesanUpdateViewModel
+import com.corona.savelive.viewModel.pesanViewModel
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
-import kotlinx.android.synthetic.main.activity_my_update.*
 
 class MyUpdateActivity : AppCompatActivity() {
     private var namaBaru: EditText? = null
@@ -21,7 +22,7 @@ class MyUpdateActivity : AppCompatActivity() {
     private var auth: FirebaseAuth? = null
     private var cekNama: String? = null
     private var cekPesan: String? = null
-
+    private val viewModel by viewModels<pesanUpdateViewModel>()
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_my_update)
@@ -44,6 +45,7 @@ class MyUpdateActivity : AppCompatActivity() {
                 val getUserId : String = auth?.getCurrentUser()?.getUid().toString()
                 database!!.child(getUserId).child("Pesan").child(getKey).removeValue()
                 database!!.child(getUserId).child("Pesan").child(getKey).setValue(temanBaru).addOnCompleteListener {
+                    viewModel.updateData(temanBaru)
                     finish()
                 }
             }
