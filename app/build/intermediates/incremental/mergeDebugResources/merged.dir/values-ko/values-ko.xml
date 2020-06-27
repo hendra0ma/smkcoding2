@@ -49,6 +49,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"스마트폰에서 열기"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"로그인"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"기타"</string>
     <string name="fui_accessibility_logo">앱 로고</string>
     <string name="fui_auto_verified">전화번호가 자동으로 확인되었습니다.</string>
     <string name="fui_button_text_save">저장</string>

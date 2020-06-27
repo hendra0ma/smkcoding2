@@ -51,6 +51,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Otvoriť v telefóne"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Prihlásiť sa"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Prihlásiť sa účtom Google"</string>
+    <string msgid="4133737464567140336" name="fcm_fallback_notification_channel_label">"Rôzne"</string>
     <string name="fui_accessibility_logo">Logo aplikácie</string>
     <string name="fui_auto_verified">Telefónne číslo bolo automaticky overené</string>
     <string name="fui_button_text_save">Uložiť</string>
