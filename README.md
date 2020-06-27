@@ -1,8 +1,14 @@
 # smkcoding2
 link aplikasi : 
-https://drive.google.com/open?id=1UUl0xt9s3RJsy_Viu-t-T0QGQEbOq7ui
-<img src ="https://github.com/hendra0ma/smkcoding2/blob/master/screenshot/halaman1.png">
-<img src="https://github.com/hendra0ma/smkcoding2/blob/master/screenshot/halaman3.png">
-<img src="https://github.com/hendra0ma/smkcoding2/blob/master/screenshot/halaman4.png">
-<img src="https://github.com/hendra0ma/smkcoding2/blob/master/screenshot/halaman5.png">
-<img src="https://github.com/hendra0ma/smkcoding2/blob/master/screenshot/halaman6.png">
+
+
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-37-58.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-38-04.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-38-14.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-38-36.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-38-55.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-39-32.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-40-01.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-40-20.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-40-35.png">
+<img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-28-00-05-13.png">
