@@ -1,5 +1,14 @@
 # smkcoding2
-link aplikasi : 
+
+Teknologi :
+-> menggunakan API kawal korona (data global , data profinsi , data indonesia)
+-> menggunakan fragment
+-> menggunakan viewpager
+-> menggunakan recyclerView.
+-> firebase realtime database
+-> firebase auth (login , register,logout)
+-> room database
+
 
 
 <img src="https://github.com/hendra0ma/screenshotAplikasi/blob/master/Screenshot_2020-06-27-23-37-58.png">
