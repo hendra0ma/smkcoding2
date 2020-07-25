@@ -1,13 +1,13 @@
 # smkcoding2
 
-Teknologi :
--> menggunakan API kawal korona (data global , data profinsi , data indonesia)
--> menggunakan fragment
--> menggunakan viewpager
--> menggunakan recyclerView.
--> firebase realtime database
--> firebase auth (login , register,logout)
--> room database
+Teknologi :</br>
+-> menggunakan API kawal korona (data global , data profinsi , data indonesia)</br>
+-> menggunakan fragment</br>
+-> menggunakan viewpager</br>
+-> menggunakan recyclerView.</br>
+-> firebase realtime database</br>
+-> firebase auth (login , register,logout)</br>
+-> room database</br>
 
 
 
