@@ -1,4 +1,5 @@
-# smkcoding2
+# Aplikasi Save Life From Corona
+## smkcoding2
 
 Teknologi :</br>
 -> menggunakan API kawal korona (data global , data profinsi , data indonesia)</br>
